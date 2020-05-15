@@ -8,7 +8,7 @@ running under Jupyter notebook, forked from [here](https://github.com/buomsoo-ki
 
 ## Prerequisites
 
-Install [python](www.python.org).
+Install [python](http://www.python.org).
 Make sure that you have successfully installed python (version 3.6 or above) in your system.
 To do so, in the command prompt, type the `python --version` command. Go ahead if the version is 3.6 or above.
  
