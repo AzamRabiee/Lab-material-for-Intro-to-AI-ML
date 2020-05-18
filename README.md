@@ -24,7 +24,7 @@ To install the required packages in one shot, go ahead and download the `requirm
 file from the repository, and run the following command in the path containing the txt file:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Running under the Jupyter Notebook
