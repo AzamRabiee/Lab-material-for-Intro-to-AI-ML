@@ -1,6 +1,6 @@
 # Lab Material for *Intro to AI & ML* Course 
 
-This repository provides lab materials for the [Introduction to AI & ML online course](http://college.synnovateinc.com/courses/ai-ml/), 
+This repository provides lab materials for the [Introduction to AI & ML online course](http://edu.synnovateinc.com/courses/ai-ml/), 
 supported by [Synnovate Inc](http://synnovateinc.com/). 
 
 As the first Machine Learning project, you are going to see how the word embedding networks using a simple code snippet, 
@@ -8,7 +8,7 @@ running under Jupyter notebook, forked from [here](https://github.com/buomsoo-ki
 
 ## Prerequisites
 
-Install [python](http://www.python.org).
+Install [python](http://www.python.org) according to your OS.
 Make sure that you have successfully installed python (version 3.6 or above) in your system.
 To do so, in the command prompt, type the `python --version` command. Go ahead if the version is 3.6 or above.
  
