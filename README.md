@@ -3,7 +3,7 @@
 This repository provides lab materials for the [Introduction to AI & ML online course](http://edu.synnovateinc.com/courses/ai-ml/), 
 supported by [Synnovate Inc](http://synnovateinc.com/). 
 
-As the first Machine Learning project, you are going to see how the word embedding networks using a simple code snippet, 
+As the first Machine Learning project, you are going to see how a word embedding network works using a simple code snippet, 
 running under Jupyter notebook, forked from [here](https://github.com/buomsoo-kim/Word-embedding-with-Python).   
 
 ## Prerequisites
